@@ -1,5 +1,8 @@
 {
-  "name"    : "electron-simple-app",
-  "version" : "0.0.1",
-  "main"    : "app.js"
+  "name": "electron-simple-app",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "electron-require": "^0.3.0"
+  }
 }
